@@ -1,0 +1,86 @@
+body
+{
+    background-color:rgb(220,187,178);
+}  
+.emploi
+{
+    font-weight: bolder;
+}
+
+.duree
+{
+    color: greenyellow;
+}
+    
+.bandeau
+{
+    color: black;
+     background: linear-gradient(blue, white);
+}  
+.bandeau1
+{
+    color: blue;
+    background-color: chocolate;
+}
+.monRounded
+{
+    border-radius: 30px;
+    box-shadow: 0px 2px 12px 5px black ;
+}
+     
+.cvdebouchra
+{
+    border-radius: 30px;
+    box-shadow: 0px 2px 12px 5px black ;
+}
+.competPhoto
+{
+    width: 100px;
+}
+.vignettePied
+{
+    background: linear-gradient(blue, white);
+}
+.test
+{
+    background-color: darkgrey;
+}
+
+.textVignette
+{
+    text-align: justify;
+}
+
+.vignette
+{
+    background-color: floralwhite;
+    border-radius: 30px;
+    box-shadow: 0px 2px 12px 5px gray ;
+}
+
+.monImage
+{ 
+    width: 300px;
+}
+
+.email
+{
+    background: linear-gradient(blue, rgb(128, 120, 120));
+    border-radius: 30px;
+    box-shadow: 0px 2px 12px 5px rgb(128, 128, 128) ;
+}
+.reseauxsociaux
+{
+    background: linear-gradient(blue, white);
+    border-radius: 30px;
+    box-shadow: 0px 2px 12px 5px rgb(128, 128, 128) ;
+} 
+
+.adress
+{
+ background: linear-gradient(gray, lightblue);
+
+}
+
+
+
